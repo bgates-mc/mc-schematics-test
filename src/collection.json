@@ -3,7 +3,8 @@
   "schematics": {
     "mc-schematics": {
       "description": "A blank schematic.",
-      "factory": "./mc-schematics/index#mcSchematics"
+      "factory": "./mc-schematics/index#mcSchematics",
+      "schema": "./mc-schematics/schema.json"
     }
   }
 }
